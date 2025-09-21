@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   icons: "/assets/images/logos/logo.svg",
-  title: "SuperOfficeWeb",
+  title: "Super Office Web",
   description: "Super Office Web Application",
 };
 

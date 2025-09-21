@@ -188,7 +188,7 @@ export default async function OfficeSpaceDetailsPage({ params }: Props) {
               ) : (
                 <a
                   target="_blank"
-                  href={`https://wa.me/6281260799731?text=Saya ingin booking kantor ${office.title} detailsnya: \nhttp://localhost:3000/office/${office.slug}`}
+                  href={`https://wa.me/6281260799731?text=Saya ingin booking kantor ${office.title} detailsnya: \nhttps://superofficeweb.vercel.app/office/${office.slug}`}
                   className="flex items-center justify-center w-full rounded-full p-[16px_26px] gap-3 bg-[#0D903A] font-bold text-[#F7F7FD]"
                 >
                   <Image
