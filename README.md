@@ -38,17 +38,18 @@ Pastikan sudah terinstall **Node.js** versi terbaru (disarankan LTS).
    http://localhost:3000
 
 📂 Struktur Project
-superofficeweb/
-│── public/             # Asset statis (image, favicon, dll)
-│── src/
-│   ├── app/            # Folder utama Next.js 15 (routing & layout) & Global styles (Tailwind setup)
-│   ├── components/     # Reusable components (Navbar, Footer, Section, dll)
-│   └── features/          # folder untuk membuat data dinamis
-│
-│── package.json
-│── tailwind.config.js
-│── postcss.config.js
-│── README.md
+   ```bash
+   superofficeweb/
+   │── public/             # Asset statis (image, favicon, dll)
+   │── src/
+   │   ├── app/            # Folder utama Next.js 15 (routing & layout) & Global styles (Tailwind setup)
+   │   ├── components/     # Reusable components (Navbar, Footer, Section, dll)
+   │   └── features/          # folder untuk membuat data dinamis
+   │
+   │── package.json
+   │── tailwind.config.js
+   │── postcss.config.js
+   │── README.md
 
 
 ## 🔥 Preview
