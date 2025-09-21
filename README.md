@@ -50,6 +50,13 @@ superofficeweb/
 │── postcss.config.js
 │── README.md
 
+
+## 🔥 Preview
+![Preview](public/vercel/image_home.png)
+![Preview](public/vercel/image_detail_city.png)
+![Preview](public/vercel/image_detail_office.png)
+
+
 🧑‍💻 Cara Belajar dari Project Ini
 
 Mulai dari build project Next.js dasar.
