@@ -28,10 +28,13 @@ Pastikan sudah terinstall **Node.js** versi terbaru (disarankan LTS).
    cd superofficeweb
 
 2. Install Dependencies
+   ```bash
    npm install
-3. Run Development Server
+4. Run Development Server
+   ```bash
    npm run dev
-4. Buka di browser:
+5. Buka di browser:
+   ```bash
    http://localhost:3000
 
 📂 Struktur Project
