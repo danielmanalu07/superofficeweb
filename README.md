@@ -18,6 +18,13 @@ Tujuan utama project ini adalah memahami fundamental Next.js, seperti:
 
 ---
 
+---
+## 🔥 Preview
+![Preview](public/vercel/image_home.png)
+![Preview](public/vercel/image_detail_city.png)
+![Preview](public/vercel/image_detail_office.png)
+---
+
 ## ⚙️ Installation
 
 Pastikan sudah terinstall **Node.js** versi terbaru (disarankan LTS).  
@@ -52,10 +59,6 @@ Pastikan sudah terinstall **Node.js** versi terbaru (disarankan LTS).
    │── README.md
 
 
-## 🔥 Preview
-![Preview](public/vercel/image_home.png)
-![Preview](public/vercel/image_detail_city.png)
-![Preview](public/vercel/image_detail_office.png)
 
 
 🧑‍💻 Cara Belajar dari Project Ini
